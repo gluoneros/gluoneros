@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gluoneros
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on free software project
 - 📫 How to reach me gluoneros@gmail.com
 
