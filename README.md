@@ -2,7 +2,7 @@
 
 
 # 👤 About Me:
-🚀 I am a passionate developer graduated Software Engineering & with a grade in Lic Maths and phisycs! I enjoy solving problems and creating solutions that make a positive impact.
+🚀 I am a passionate developer graduated Software Engineering & with a grade in Lic Maths and physics! I enjoy solving problems and creating solutions that make a positive impact.
 - 👀 I’m interested in Machine Learning, natural language processing.- 
 - 💞️ I’m looking to collaborate on free software project
 
