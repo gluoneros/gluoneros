@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gluoneros
+## Hello there, I’m @gluoneros
 - 👀 I’m interested in Machine Learning
 - 💞️ I’m looking to collaborate on free software project
 - 📫 How to reach me gluoneros@gmail.com
