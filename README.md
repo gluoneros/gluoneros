@@ -14,7 +14,7 @@ gluoneros/gluoneros is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[🏠 My Portfolio](https://gluoneros.github.io) | [📧 Email](mailto:emansarahafi@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/emansarahafi/) | [📄 Resume](https://github.com/emansarahafi/emansarahafi/raw/3c5647a771714e881ccf431b9bacbe32266a74de/CV_2024-08-27_Eman_Afi.pdf)
+[🏠 My Portfolio](https://gluoneros.github.io) | [📧 Email](mailto:gluoneros@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/hildebrando-vargas) | [📄 Resume](https://github.com/emansarahafi/emansarahafi/raw/3c5647a771714e881ccf431b9bacbe32266a74de/CV_2024-08-27_Eman_Afi.pdf)
 
 # 💻 Technical Skills:
 
