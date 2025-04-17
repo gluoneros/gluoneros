@@ -14,7 +14,7 @@ gluoneros/gluoneros is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[🏠 My Portfolio](https://gluoneros.github.io) | [📧 Email](mailto:gluoneros@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/hildebrando-vargas) | [📄 Resume](cv3/hojaDeVida3.pdf)
+[🏠 My Portfolio](https://gluoneros.github.io) | [📧 Email](mailto:gluoneros@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/hildebrando-vargas) | [📄 Resume]([cv3/hojaDeVida3.pdf](https://github.com/gluoneros/Awesome-CV-Cover-Letter/blob/main/cv3/hojaDeVida3.pdf))
 
 # 💻 Technical Skills:
 
