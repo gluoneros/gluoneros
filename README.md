@@ -41,3 +41,5 @@ You can click the Preview link to take a look at your changes.
 ## Java Libraries and Frameworks:
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JUnit](https://img.shields.io/badge/JUnit-%23007ACC.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge&logo=hibernate5&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Springboot-%23007ACC.svg?style=for-the-badge&logo=springboot5&logoColor=white)
