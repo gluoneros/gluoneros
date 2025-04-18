@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300768F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-4B8BBE?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/seaborn)
 
 ## Java Libraries and Frameworks:
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
