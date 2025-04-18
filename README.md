@@ -3,7 +3,7 @@
 
 # 👤 About Me:
 🚀 I am a passionate developer graduated Software Engineering & with a grade in Lic Maths and physics! I enjoy solving problems and creating solutions that make a positive impact.
-- 👀 I’m interested in Machine Learning, natural language processing.- 
+- 👀 I’m interested in Machine Learning, natural language processing.- Backend with Python and java
 - 💞️ I’m looking to collaborate on free software project
 
   
@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Python Libraries and Frameworks:
 ![Django](https://img.shields.io/badge/-Django-%2300768F.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/-Flask-%2300768F.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-%234B8BBE.svg?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
