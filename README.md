@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768F.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768F.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-SciKitlearn-%2300768F.svg?style=for-the-badge&logo=scikilearn&logoColor=white)
 
 ## Java Libraries and Frameworks:
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
