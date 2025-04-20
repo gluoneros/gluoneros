@@ -36,10 +36,12 @@ You can click the Preview link to take a look at your changes.
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300768F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-4B8BBE?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![seaborn](https://img.shields.io/badge/-seaborn-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 ## Java Libraries and Frameworks:
-![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%23007ACC.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -72,5 +74,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Operating Systems:
 ![Linux](https://img.shields.io/badge/linux-%231572B6.svg?style=for-the-badge&logo=linux&logoColor=white) 
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
